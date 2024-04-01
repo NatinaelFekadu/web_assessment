@@ -17,6 +17,4 @@ Task Steps:
 
 
 
-
-
-![Uploading assesment.png…]()
+![assesment](https://github.com/NatinaelFekadu/web_assessment/assets/101578729/53466c76-a577-4f96-ae3e-310747c58819)
